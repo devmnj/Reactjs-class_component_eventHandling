@@ -4,7 +4,7 @@ class Button2 extends Component {
   handleClick = () => {
     alert("Button2 Clicked");
   };
-  render() {
+  render() { 
     return (
       <div>
         {/* Arrow function- as class property */}
